@@ -1,2 +1,2 @@
-# maleta-cpp
-Ejercicio de maleta en C++ 
+# mochila-cpp
+Ejercicio de la mochila en C++ 
